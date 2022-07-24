@@ -3,9 +3,9 @@ Simple Example in Dagger 2
 
 simple app for Dagger 2 by kotlin 
 
-Decripe how to use dagger 2 and all functionaility like :
+Descripe how to use dagger 2 and all functionaility like :
  
-@Component 
+ @Component 
 
  @Inject [ constructor - field - method ]
  
@@ -20,4 +20,6 @@ Decripe how to use dagger 2 and all functionaility like :
  @Factory and @ Builder
  
  @Scopes and @Custome Scopes 
+ 
+ Hope be useful for anyone.
  
